@@ -8,4 +8,4 @@
 
 
 #### Resources:
-JavaScript & jQuery by Jon Duckett, https://javascript.info/localstorage, https://www.w3schools.com/jquery/default.asp, https://www.w3schools.com/js/js_timing.asp
+JavaScript & jQuery by Jon Duckett(http://javascriptbook.com/), https://javascript.info/localstorage, https://www.w3schools.com/jquery/default.asp, https://www.w3schools.com/js/js_timing.asp
