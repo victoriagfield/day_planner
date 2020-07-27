@@ -22,7 +22,7 @@ textarea{
   background-color: transparent;
   color: white;
   border-bottom: 10px solid teal;
-  background-image: url('../assets/2.jpg');
+  background-image: url("./assets/2.jpg")
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
