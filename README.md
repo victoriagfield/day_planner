@@ -24,6 +24,9 @@ THEN the saved events persist<br>
 
 ### Example Image
 
+![Homework5](https://user-images.githubusercontent.com/66035385/88572460-2c9f2180-d00d-11ea-8b41-4fb829b3fec5.jpg)
+
+
 
 #### Resources:
 JavaScript & jQuery by Jon Duckett(http://javascriptbook.com/), https://javascript.info/localstorage, https://www.w3schools.com/jquery/default.asp, https://www.w3schools.com/js/js_timing.asp, https://stackoverflow.com/
