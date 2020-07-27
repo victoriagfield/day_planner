@@ -27,6 +27,7 @@ textarea{
   background-repeat: no-repeat;
   background-position: center;
   background-blend-mode: lighten;
+  position: static;
 }
 
 .description{
