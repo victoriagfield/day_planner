@@ -1,30 +1,53 @@
 # Workday Planner
-
+<br>
 https://victoriagfield.github.io/day_planner
 
-### Objective
+<br>
+<hr>
 
-Create a simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+ ## Table of Contents
+  - [Description](#Description)
+  - [Installation](#Installation)
+  - [Usage](#Usage)
+  - [License](#License)
+  - [Contributing](#Contributing)
+  - [Technologies](#Technologies)
+  - [Questions](#Questions)
+  - [Resrouces](#Resources)
 
-### What needs to be accomplished
-GIVEN I am using a daily planner to create a schedule<br>
-WHEN I open the planner<br>
-THEN the current day is displayed at the top of the calendar<br>
-WHEN I scroll down<br>
-THEN I am presented with timeblocks for standard business hours<br>
-WHEN I view the timeblocks for that day<br>
-THEN each timeblock is color coded to indicate whether it is in the past, present, or future<br>
-WHEN I click into a timeblock<br>
-THEN I can enter an event<br>
-WHEN I click the save button for that timeblock<br>
-THEN the text for that event is saved in local storage<br>
-WHEN I refresh the page<br>
-THEN the saved events persist<br>
+  ## Description
+ Create a simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery. 
+  <hr>
 
+  ## Installation
+  No installation necessary. Head on over to https://victoriagfield.github.io/day_planner to begin using the planner!<br>
+  <hr>
 
-### Example Image
+  ## Usage
+  This application is aimed towards people who are in need of a digital workday planner.<br>
+  ![Homework5](https://user-images.githubusercontent.com/66035385/88572460-2c9f2180-d00d-11ea-8b41-4fb829b3fec5.jpg)
 
-![Homework5](https://user-images.githubusercontent.com/66035385/88572460-2c9f2180-d00d-11ea-8b41-4fb829b3fec5.jpg)
+ 
+  <hr>
+
+  ## License
+  [MIT](https://opensource.org/licenses/MIT)
+  <hr>
+
+  ## Technologies
+ •JQuery
+ •HTML
+ •CSS
+  <hr>
+
+  ## Questions
+  Questions, concerns, want to say hey? We'd love to hear from you!<br>
+  ![VG](https://user-images.githubusercontent.com/66035385/101025330-6cd65980-3543-11eb-8c60-86bd511a689d.png)<br>
+  #### Victoria Greenfield
+  [GitHub: victoriagfield](https://github.com/victoriagfield)
+  [Email: victoriagfield@gmail.com](victoriagfield@gmail.com)<br>
+  Contact us! Email or message us on LinkedIn!<br><br>
+  
 
 
 
