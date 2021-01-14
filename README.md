@@ -35,9 +35,9 @@ https://victoriagfield.github.io/day_planner
   <hr>
 
   ## Technologies
- •JQuery
- •HTML
- •CSS
+ •JQuery<br>
+ •HTML<br>
+ •CSS<br>
   <hr>
 
   ## Questions
